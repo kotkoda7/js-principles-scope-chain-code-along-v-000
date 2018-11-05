@@ -19,5 +19,7 @@ function changeLeastFavoriteCustomer () {
   leastFavoriteCustomer = 'chris';
 }
 
-const favoriteCustomer = 'fave'
+const favoriteCustomer = 'fave';
+
+
 
